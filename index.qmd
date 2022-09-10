@@ -2,7 +2,7 @@
 title: "Hints"
 ---
 
-This is a Quarto website.
+This is a Quarto website built to present and keep easy discoverable some R language functionalities.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
